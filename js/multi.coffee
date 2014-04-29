@@ -6,3 +6,4 @@ sync_object =
 		"app_name": "MatherSocialReader"
 
 Nimbus.Auth.setup(sync_object)
+
