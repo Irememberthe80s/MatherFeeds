@@ -1,6 +1,6 @@
 sync_object = 
  "GDrive":
-    "key": "762177952485-isd11r5irt52dgdn2hriu2rd90e84vr2.apps.googleusercontent.com"
+    "key": "577810506630-8ntbjfdt4gqq0j8im2cpqujbkph8pghn.apps.googleusercontent.com"
     "scope": "https://www.googleapis.com/auth/drive"
     "app_name": "MatherFeeds"
 	"Dropbox":
@@ -9,3 +9,4 @@ sync_object =
 		"app_name": "MatherFeeds"
 
 Nimbus.Auth.setup(sync_object)
+
