@@ -1,13 +1,10 @@
 # setup sync
 sync_object = 
-  "GDrive":
-    "key": "762177952485-isd11r5irt52dgdn2hriu2rd90e84vr2.apps.googleusercontent.com"
-    "scope": "https://www.googleapis.com/auth/drive"
-    "app_name": "jellyreader"
   "Dropbox":
-    "key": "q5yx30gr8mcvq4f"
-    "secret": "qy64qphr70lwui5"
-    "app_name": "jellyreader"
+		"key": "mvjfbyudc8ikh5o"
+		"secret": "as7vhgd6w1uul7v"
+		"app_name": "MatherSocialReader"
+
 Nimbus.Auth.setup(sync_object)
 ###
   reader models
