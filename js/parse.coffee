@@ -1,10 +1,11 @@
 
 # setup sync
 sync_object = 
-  "GDrive":
-    "key": "577810506630-8ntbjfdt4gqq0j8im2cpqujbkph8pghn.apps.googleusercontent.com"
+ "GDrive":
+    "key": "AIzaSyARJwM8-zQvgZhnM6Gfqnt-ceAorrGAJlY"
     "scope": "https://www.googleapis.com/auth/drive"
-    "app_name": "MatherFeeds"
+    "app_name": "MatherSocialData"
+	"secret": "sxOK_M7QQXsHa00DinpJap4q"
 	"Dropbox":
 		"key": "mvjfbyudc8ikh5o"
 		"secret": "as7vhgd6w1uul7v"
